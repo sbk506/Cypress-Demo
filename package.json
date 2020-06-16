@@ -1,0 +1,15 @@
+{
+  "name": "cypressauto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "Bharat",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^4.7.0"
+  }
+}
